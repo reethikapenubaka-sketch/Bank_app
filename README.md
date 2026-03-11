@@ -1,3 +1,3 @@
 https://bankapp-iqsz8bappwgdehgquhmhuwc.streamlit.app/
 
-information about your application
+click link the above to know your application
